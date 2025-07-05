@@ -1,0 +1,23 @@
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "/Users/anass/dp/mcp-server-client-spring"
+      ]
+    },
+    "Python-MCP-Server": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--with",
+        "mcp[cli]",
+        "mcp",
+        "run",
+        "/Users/anass/dp/mcp-server-client-spring/python-mcp-server/server.py"
+      ]
+    }
+  }
+}
