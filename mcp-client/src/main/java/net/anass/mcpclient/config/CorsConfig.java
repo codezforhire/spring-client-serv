@@ -1,4 +1,4 @@
-package net.youssfi.mcpclient.config;
+package net.anass.mcpclient.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

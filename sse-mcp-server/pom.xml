@@ -8,7 +8,7 @@
         <version>3.5.0</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>net.youssfi</groupId>
+    <groupId>net.anass</groupId>
     <artifactId>sse-mcp-server</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>sse-mcp-server</name>

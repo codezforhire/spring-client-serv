@@ -1,4 +1,4 @@
-package net.youssfi.ssemcpserver;
+package net.anass.ssemcpserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

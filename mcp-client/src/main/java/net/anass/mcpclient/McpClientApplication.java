@@ -1,4 +1,4 @@
-package net.youssfi.mcpclient;
+package net.anass.mcpclient;
 
 import io.modelcontextprotocol.client.McpSyncClient;
 import io.modelcontextprotocol.spec.McpSchema;

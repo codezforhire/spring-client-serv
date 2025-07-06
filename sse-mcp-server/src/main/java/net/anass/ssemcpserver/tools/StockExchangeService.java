@@ -1,4 +1,4 @@
-package net.youssfi.ssemcpserver.tools;
+package net.anass.ssemcpserver.tools;
 
 import org.springframework.ai.tool.annotation.Tool;
 import org.springframework.context.annotation.Description;

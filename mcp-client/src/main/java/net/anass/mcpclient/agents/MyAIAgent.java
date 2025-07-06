@@ -1,4 +1,4 @@
-package net.youssfi.mcpclient.agents;
+package net.anass.mcpclient.agents;
 
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.ai.chat.client.advisor.MessageChatMemoryAdvisor;

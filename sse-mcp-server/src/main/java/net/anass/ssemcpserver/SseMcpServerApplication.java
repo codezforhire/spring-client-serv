@@ -1,6 +1,6 @@
-package net.youssfi.ssemcpserver;
+package net.anass.ssemcpserver;
 
-import net.youssfi.ssemcpserver.tools.StockExchangeService;
+import net.anass.ssemcpserver.tools.StockExchangeService;
 import org.springframework.ai.tool.method.MethodToolCallbackProvider;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

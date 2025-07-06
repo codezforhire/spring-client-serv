@@ -1,6 +1,6 @@
-package net.youssfi.mcpclient.controllers;
+package net.anass.mcpclient.controllers;
 
-import net.youssfi.mcpclient.agents.MyAIAgent;
+import net.anass.mcpclient.agents.MyAIAgent;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 
